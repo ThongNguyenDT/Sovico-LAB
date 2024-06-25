@@ -5,11 +5,13 @@ theme = "hugo-theme-learn"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+baseURL = "https://thongnguyendt.github.io/Sovico-LAB/"
+
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "workshop"
   # Git hub repo link
-  editURL = "https://thongnguyendt.github.io/Sovico-LAB"
+  editURL = "https://thongnguyendt.github.io/Sovico-LAB/"
   description = ""
   author = "Nguyenduongtienthong@gmail.com"
   showVisitedLinks = true
