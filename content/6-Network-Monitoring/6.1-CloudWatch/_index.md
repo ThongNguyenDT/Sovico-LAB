@@ -5,16 +5,16 @@ weight : 1
 chapter : false
 pre : " <b> 6.1 </b> "
 ---
-![img.png](/images/6/6.1/img.png)
+![img.png](/Sovico-LAB/images/6/6.1/img.png)
 
-![img.png](/images/6/6.1/img_1.png)
+![img.png](/Sovico-LAB/images/6/6.1/img_1.png)
 
-![img.png](/images/6/6.1/img_2.png)
+![img.png](/Sovico-LAB/images/6/6.1/img_2.png)
 
-![img.png](/images/6/6.1/img_3.png)
+![img.png](/Sovico-LAB/images/6/6.1/img_3.png)
 
-![img.png](/images/6/6.1/img_4.png)
+![img.png](/Sovico-LAB/images/6/6.1/img_4.png)
 
-![img.png](/images/6/6.1/img_5.png)
+![img.png](/Sovico-LAB/images/6/6.1/img_5.png)
 
-![img.png](/images/6/6.1/img_6.png)
+![img.png](/Sovico-LAB/images/6/6.1/img_6.png)

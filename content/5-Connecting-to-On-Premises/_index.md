@@ -1,5 +1,5 @@
 ---
-title : "Security Controls"
+title : "Connecting to On-Premises"
 date :  "`r Sys.Date()`" 
 weight : 5
 chapter : false

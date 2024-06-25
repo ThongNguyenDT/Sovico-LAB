@@ -18,9 +18,9 @@ This notebook serves as both a record of my learning and a resource for anyone l
 **_This is the LAB SOVICO report_**
 
 ### Content
-1. [VPC Fundamentals](/2-fundamentals)
-2. VPCs
-3. Multiple VPCs
-4. Security Controls
-5. Connecting to On-Premises
-6. Networking Monitoring
+1. [VPC Fundamentals](/Sovico-LAB/2-fundamentals)
+2. [VPCs](/Sovico-LAB/2-fundamentals/)
+3. [Multiple VPCs](/Sovico-LAB/3-multiple-vpcs/)
+4. [Security Controls](/Sovico-LAB/4-security-controls/)
+5. [Connecting to On-Premises](/Sovico-LAB/5-connecting-to-on-premises/)
+6. [Networking Monitoring](/Sovico-LAB/5-connecting-to-on-premises/)

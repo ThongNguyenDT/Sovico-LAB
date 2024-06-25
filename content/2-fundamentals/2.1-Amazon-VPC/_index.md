@@ -8,7 +8,7 @@ pre : " <b> 2.1 </b> "
 ## Step 1: Create VPC
 * To get started, navigate to the Your VPCs tab  in the VPC section of the console and click Create VPC button.
 
-![img.png](/images/2.fundamentals/2.1/img.png)
+![img.png](/Sovico-LAB/images/2.fundamentals/2.1/img.png)
 
 ## Step 2:
 * Enter `VPC A` as the Name tag
@@ -18,16 +18,16 @@ pre : " <b> 2.1 </b> "
 * Accept proposed Tags
 * Click `Create VPC`
 
-![img.png](/images/2.fundamentals/2.1/step2.png)
+![img.png](/Sovico-LAB/images/2.fundamentals/2.1/step2.png)
 
 ## Step 3: After completing these steps, you should have a new VPC listed under Your VPCs
-![img.png](/images/2.fundamentals/2.1/step3.png)
+![img.png](/Sovico-LAB/images/2.fundamentals/2.1/step3.png)
 
 ## Step 4: Click on **Actions** and select **Edit VPC** settings from the dropdown
-![img.png](/images/2.fundamentals/2.1/step4.png)
+![img.png](/Sovico-LAB/images/2.fundamentals/2.1/step4.png)
 * Check 2 box like image then save 
 
-![img.png](/images/2.fundamentals/2.1/step4.1.png)
+![img.png](/Sovico-LAB/images/2.fundamentals/2.1/step4.1.png)
 
 Every thing is done!\
 **Congratulations, your first VPC is now built**

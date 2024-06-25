@@ -9,4 +9,4 @@ Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolate
 
 In this lab, you will learn how to set up a VPC with public and private subnets, connect it to the internet and establish private connections to AWS services.
 
-![img.png](/images/3/img.png)
+![img.png](/Sovico-LAB/images/3/img.png)

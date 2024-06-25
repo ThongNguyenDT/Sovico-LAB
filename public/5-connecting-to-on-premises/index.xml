@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Security Controls on Sovico LAB</title>
+    <title>Connecting to On-Premises on Sovico LAB</title>
     <link>//localhost:1313/5-connecting-to-on-premises/</link>
-    <description>Recent content in Security Controls on Sovico LAB</description>
+    <description>Recent content in Connecting to On-Premises on Sovico LAB</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="//localhost:1313/5-connecting-to-on-premises/index.xml" rel="self" type="application/rss+xml" />
