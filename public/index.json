@@ -25,7 +25,7 @@
 	"title": "Introduction",
 	"tags": [],
 	"description": "",
-	"content": "The intent of the workshops is to educate users about AWS Networking.\nA background in Networking (IP Addressing, Subnetting, VPN, Security, and Routing) is useful but not required.\nThere are three workshops:\nFoundational: Overview of AWS Networking; covering VPCs, connecting VPCs and data centers, security controls, and network monitoring. AWS Gateway Load Balancer: transparently deploy and scale appliances, such as firewalls, in the AWS network. AWS Transit Gateway Multicast: Explore how Transit gateway can act as a rendezvous point for multicast sources and receivers within your AWS VPCs.\n"
+	"content": "The intent of the workshops is to educate users about AWS Networking.\nA background in Networking (IP Addressing, Subnetting, VPN, Security, and Routing) is useful but not required.\nThere are three workshops:\nFoundational: Overview of AWS Networking; covering VPCs, connecting VPCs and data centers, security controls, and network monitoring. AWS Gateway Load Balancer: transparently deploy and scale appliances, such as firewalls, in the AWS network. AWS Transit Gateway Multicast: Explore how Transit gateway can act as a rendezvous point for multicast sources and receivers within your AWS VPCs. "
 },
 {
 	"uri": "//localhost:1313/4-security-controls/4.1-network-acls/",
