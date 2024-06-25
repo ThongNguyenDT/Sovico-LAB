@@ -11,14 +11,14 @@ home = [ "HTML", "RSS", "JSON"]
   # Git hub repo link
   editURL = ""
   description = ""
-  author = "journeyoftheaverageguy@gmail.com"
+  author = "Nguyenduongtienthong@gmail.com"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
   
 [Languages]
 [Languages.en]
-title = "WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER"
+title = "Sovico LAB"
 weight = 1
 languageName = "English"
 

@@ -1,0 +1,197 @@
+[
+{
+	"uri": "//localhost:1313/2-fundamentals/2.1-amazon-vpc/",
+	"title": "Amazon VPC",
+	"tags": [],
+	"description": "",
+	"content": "Step 1: Create VPC To get started, navigate to the Your VPCs tab in the VPC section of the console and click Create VPC button. Step 2: Enter VPC A as the Name tag Specify 10.0.0.0/16 as IPv4 CIDR block. Do not enable IPv6. Leave Default selected as Tenancy. Accept proposed Tags Click Create VPC Step 3: After completing these steps, you should have a new VPC listed under Your VPCs Step 4: Click on Actions and select Edit VPC settings from the dropdown Check 2 box like image then save Every thing is done!\nCongratulations, your first VPC is now built\n"
+},
+{
+	"uri": "//localhost:1313/6-network-monitoring/6.1-cloudwatch/",
+	"title": "CloudWatch",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/5-connecting-to-on-premises/5.1-establish-vpn-connection/",
+	"title": "Establish VPN Connection",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/1-introduction/",
+	"title": "Introduction",
+	"tags": [],
+	"description": "",
+	"content": "The intent of the workshops is to educate users about AWS Networking.\nA background in Networking (IP Addressing, Subnetting, VPN, Security, and Routing) is useful but not required.\nThere are three workshops:\nFoundational: Overview of AWS Networking; covering VPCs, connecting VPCs and data centers, security controls, and network monitoring. AWS Gateway Load Balancer: transparently deploy and scale appliances, such as firewalls, in the AWS network. AWS Transit Gateway Multicast: Explore how Transit gateway can act as a rendezvous point for multicast sources and receivers within your AWS VPCs.\n"
+},
+{
+	"uri": "//localhost:1313/4-security-controls/4.1-network-acls/",
+	"title": "Network ACLs",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/3-multiple-vpcs/3.1-vpc-peering/",
+	"title": "VPC Peering",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/",
+	"title": "Workshop",
+	"tags": [],
+	"description": "",
+	"content": "My AWS Learning Journal Overview Welcome to my AWS Learning Journal! This notebook captures my journey and progress as I delve into the world of Amazon Web Services (AWS). Each section represents a week of learning, where I\u0026rsquo;ve documented key concepts, practical exercises, and challenges I encountered. Here’s a glimpse of what you can expect:\nWeek 1: \u0026hellip; Week 2: \u0026hellip; Week 3: \u0026hellip; This notebook serves as both a record of my learning and a resource for anyone looking to understand AWS better. Dive into each week\u0026rsquo;s content to see detailed notes, screenshots, and reflections on my AWS experience.\nThis is the LAB SOVICO report\nContent VPC Fundamentals VPCs Multiple VPCs Security Controls Connecting to On-Premises Networking Monitoring "
+},
+{
+	"uri": "//localhost:1313/5-connecting-to-on-premises/5.2-explore-hybrid-environment/",
+	"title": "Explore Hybrid Environment",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/2-fundamentals/",
+	"title": "Fundamentals",
+	"tags": [],
+	"description": "",
+	"content": "Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways. You can use both IPv4 and IPv6 in your VPC for secure and easy access to resources and applications.\nIn this lab, you will learn how to set up a VPC with public and private subnets, connect it to the internet and establish private connections to AWS services.\n"
+},
+{
+	"uri": "//localhost:1313/4-security-controls/4.2-security-groups/",
+	"title": "Security Groups",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/2-fundamentals/2.2-subnets/",
+	"title": "Subnet",
+	"tags": [],
+	"description": "",
+	"content": "Step 1: Create subnet "
+},
+{
+	"uri": "//localhost:1313/3-multiple-vpcs/3.2-transit-gateway/",
+	"title": "Transit Gateway",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/6-network-monitoring/6.2-vpc-flow-logs/",
+	"title": "VPC Flow Logs",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/4-security-controls/4.3-endpoint-policies/",
+	"title": "Endpoint Policies",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/5-connecting-to-on-premises/5.3-hybrid-dns/",
+	"title": "Hybrid DNS",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/3-multiple-vpcs/",
+	"title": "Multiple VPCs",
+	"tags": [],
+	"description": "",
+	"content": "Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways. You can use both IPv4 and IPv6 in your VPC for secure and easy access to resources and applications.\nIn this lab, you will learn how to set up a VPC with public and private subnets, connect it to the internet and establish private connections to AWS services.\n"
+},
+{
+	"uri": "//localhost:1313/2-fundamentals/2.3-network-acls/",
+	"title": "Network ACLs",
+	"tags": [],
+	"description": "",
+	"content": "Step 1: Create Network ACL "
+},
+{
+	"uri": "//localhost:1313/3-multiple-vpcs/3.3-tgw-route-tables/",
+	"title": "TGW Route Tables",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/2-fundamentals/2.4-route-tables/",
+	"title": "Route Tables:",
+	"tags": [],
+	"description": "",
+	"content": "Step 1: Create Route Tables: "
+},
+{
+	"uri": "//localhost:1313/4-security-controls/",
+	"title": "Security Controls",
+	"tags": [],
+	"description": "",
+	"content": "Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways. You can use both IPv4 and IPv6 in your VPC for secure and easy access to resources and applications.\nIn this lab, you will learn how to set up a VPC with public and private subnets, connect it to the internet and establish private connections to AWS services.\n"
+},
+{
+	"uri": "//localhost:1313/2-fundamentals/2.5-internet-connectivity/",
+	"title": "Internet Connectivity",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/5-connecting-to-on-premises/",
+	"title": "Security Controls",
+	"tags": [],
+	"description": "",
+	"content": "Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways. You can use both IPv4 and IPv6 in your VPC for secure and easy access to resources and applications.\nIn this lab, you will learn how to set up a VPC with public and private subnets, connect it to the internet and establish private connections to AWS services.\n"
+},
+{
+	"uri": "//localhost:1313/6-network-monitoring/",
+	"title": "Network Monitoring",
+	"tags": [],
+	"description": "",
+	"content": "Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways. You can use both IPv4 and IPv6 in your VPC for secure and easy access to resources and applications.\nIn this lab, you will learn how to set up a VPC with public and private subnets, connect it to the internet and establish private connections to AWS services.\n"
+},
+{
+	"uri": "//localhost:1313/2-fundamentals/2.6-vpc-endpoints/",
+	"title": "VPC Endpoints",
+	"tags": [],
+	"description": "",
+	"content": "Step 1: Create VPC Endpoints "
+},
+{
+	"uri": "//localhost:1313/2-fundamentals/2.7-ec2-instances/",
+	"title": "EC2 instances",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/2-fundamentals/2.8-test-connectivity/",
+	"title": "Test Connectivity",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "//localhost:1313/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "//localhost:1313/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
